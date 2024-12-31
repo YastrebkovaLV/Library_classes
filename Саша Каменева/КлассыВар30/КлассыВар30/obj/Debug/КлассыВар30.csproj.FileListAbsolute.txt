@@ -1,0 +1,6 @@
+C:\Users\Lilia\source\repos\КлассыВар30\КлассыВар30\bin\Debug\КлассыВар30.dll
+C:\Users\Lilia\source\repos\КлассыВар30\КлассыВар30\bin\Debug\КлассыВар30.pdb
+C:\Users\Lilia\source\repos\КлассыВар30\КлассыВар30\obj\Debug\КлассыВар30.csproj.AssemblyReference.cache
+C:\Users\Lilia\source\repos\КлассыВар30\КлассыВар30\obj\Debug\КлассыВар30.csproj.CoreCompileInputs.cache
+C:\Users\Lilia\source\repos\КлассыВар30\КлассыВар30\obj\Debug\КлассыВар30.dll
+C:\Users\Lilia\source\repos\КлассыВар30\КлассыВар30\obj\Debug\КлассыВар30.pdb

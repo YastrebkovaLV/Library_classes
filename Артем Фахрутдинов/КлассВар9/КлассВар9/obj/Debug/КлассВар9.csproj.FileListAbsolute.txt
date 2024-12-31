@@ -1,0 +1,6 @@
+C:\Users\Lilia\source\repos\КлассВар9\КлассВар9\bin\Debug\КлассВар9.dll
+C:\Users\Lilia\source\repos\КлассВар9\КлассВар9\bin\Debug\КлассВар9.pdb
+C:\Users\Lilia\source\repos\КлассВар9\КлассВар9\obj\Debug\КлассВар9.csproj.AssemblyReference.cache
+C:\Users\Lilia\source\repos\КлассВар9\КлассВар9\obj\Debug\КлассВар9.csproj.CoreCompileInputs.cache
+C:\Users\Lilia\source\repos\КлассВар9\КлассВар9\obj\Debug\КлассВар9.dll
+C:\Users\Lilia\source\repos\КлассВар9\КлассВар9\obj\Debug\КлассВар9.pdb
